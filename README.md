@@ -1,5 +1,5 @@
 # ardocs
-![My pic](https://github.com/ruslan-ohitin/ardocs/raw/master/image/my_picture.png)
+![My pic](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/my_picture.png)
 
 Arduino Pro Mini 5v 16MHz
 
