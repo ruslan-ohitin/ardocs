@@ -1,4 +1,6 @@
 # ardocs
+![My pic](https://github.com/ruslan-ohitin/ardocs/raw/master/image/my_picture.png)
+
 Arduino Pro Mini 5v 16MHz
 
 USB-UART CP1202
