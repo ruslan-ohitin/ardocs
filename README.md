@@ -7,7 +7,9 @@
 
 ![Jumpers](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/img/jumperwire.jpg)
 
-## Arduino Pro Mini 5v 16MHz + USB-UART CP1202
+## Arduino Pro Mini
+Arduino Pro Mini 5v 16MHz + USB-UART CP1202
+
 ![Arduino PRO mini](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/img/arduino_promini.jpg)
 
 
