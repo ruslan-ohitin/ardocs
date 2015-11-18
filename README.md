@@ -17,7 +17,7 @@ Arduino Pro Mini 5v 16MHz + USB-UART CP1202
 ![Arduino PRO mini](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/img/arduino_promini.jpg)
 
 
-Arduino Pro Mini 3v3 8MHz
+Arduino Pro Mini 3v3 8MHz - напряжение питания и логические уровни 3.3v - можно использовать для связи с ESP8266.
 
 ![Arduino PRO mini 3v3](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/img/arduino_promini_3v3.jpg)
 
