@@ -29,7 +29,7 @@ ESP8266 ESP-01 с переходником для макетной платы
 
 
 ESP8266 ESP-12 Тестовая плата. 
-
-[Производитель](http://www.electrodragon.com/w/ESP8266_IoT) [Форум](http://www.esp8266.com/viewtopic.php?f=6&t=1172)
+[Производитель](http://www.electrodragon.com/w/ESP8266_IoT)
+[Форум](http://www.esp8266.com/viewtopic.php?f=6&t=1172)
 
 ![ESP-12](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/img/esp8266-devboard.jpg)
