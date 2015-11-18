@@ -10,6 +10,8 @@
 ![Jumpers](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/img/jumperwire.jpg)
 
 ## Arduino Pro Mini
+То-же самое, что Arduino UNO, но без USB порта. Для программирования и связи с компьютером нужен переходник USB-UART. При подключении переходника в системе появитя новый COM порт, его нужно выбрать в среде Arduino. Также нужно выбрать тип платы и тактовую частоту.
+
 Arduino Pro Mini 5v 16MHz + USB-UART CP1202
 
 ![Arduino PRO mini](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/img/arduino_promini.jpg)
@@ -20,6 +22,7 @@ Arduino Pro Mini 3v3 8MHz
 ![Arduino PRO mini 3v3](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/img/arduino_promini_3v3.jpg)
 
 ## ESP8266
+Внимание! Напряжение питания платы ESP-01 3.3V! 
 
 Подробнее о платах можно посмотреть здесь: http://esp8266.ru http://www.esp8266.com, ну и тут поискать: http://geektimes.ru 
 
