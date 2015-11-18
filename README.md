@@ -28,6 +28,8 @@ ESP8266 ESP-01 с переходником для макетной платы
 ![ESP-01](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/img/esp8266-01.jpg)
 
 
-ESP8266 ESP-12 (Покупал [здесь](http://ru.aliexpress.com/item/2-pcs-ESP8266-ESP-12-Serial-WIFI-Module-Industrial-Stable-Version-Test-Board-Full-IO-Leads/32268332040.html))
+ESP8266 ESP-12 Тестовая плата. 
+
+[Производитель](http://www.electrodragon.com/w/ESP8266_IoT) [Форум](http://www.esp8266.com/viewtopic.php?f=6&t=1172)
 
 ![ESP-12](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/img/esp8266-devboard.jpg)
