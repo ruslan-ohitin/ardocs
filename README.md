@@ -22,14 +22,15 @@ Arduino Pro Mini 3v3 8MHz - напряжение питания и логиче�
 ![Arduino PRO mini 3v3](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/img/arduino_promini_3v3.jpg)
 
 ## ESP8266
-Внимание! Напряжение питания платы ESP-01 3.3v! 
+Внимание! Напряжение питания платы ESP-01 3.3v!
 
-Подробнее о платах можно посмотреть здесь: http://esp8266.ru http://www.esp8266.com, ну и тут поискать: http://geektimes.ru/search/?q=esp8266 
+Подробнее о платах можно посмотреть здесь: http://esp8266.ru http://www.esp8266.com и тут http://geektimes.ru/search/?q=esp8266
+
+http://esp8266.ru/arduino-ide-esp8266/ - программирование модулей из Arduino IDE.
 
 ESP8266 ESP-01 с переходником для макетной платы
 
 ![ESP-01](https://raw.githubusercontent.com/ruslan-ohitin/ardocs/master/img/esp8266-01.jpg)
-
 
 ESP8266 ESP-12 Тестовая плата. 
 [Производитель](http://www.electrodragon.com/w/ESP8266_IoT)
